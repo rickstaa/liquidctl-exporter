@@ -26,7 +26,7 @@ const (
 
 var (
 	defaultPort      = "9530"
-	defaultInterval  = "10"
+	defaultInterval  = "15"
 	defaultLiquidCMD = "/usr/local/bin/liquidctl"
 )
 
